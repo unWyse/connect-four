@@ -1,0 +1,414 @@
+Note: 'Console.Clear()' is called after each
+input prompt and output. The different output
+pages will shown by a line of asterisks between
+each new page. The final line of each page is the user input.
+
+/////////////////////RUN 1/////////////////////
+Welcome to Connect Four!
+Enter 'P' to play.
+Enter 'Q' to quit.
+P
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+1
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
++  #  #  #  #  #  #
+2
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
++  o  #  #  #  #  #
+2
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  +  #  #  #  #  #
++  o  #  #  #  #  #
+4
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  +  #  #  #  #  #
++  o  #  o  #  #  #
+3
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  +  #  #  #  #  #
++  o  +  o  #  #  #
+3
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  +  o  #  #  #  #
++  o  +  o  #  #  #
+3
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  +  #  #  #  #
+#  +  o  #  #  #  #
++  o  +  o  #  #  #
+1
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  +  #  #  #  #
+o  +  o  #  #  #  #
++  o  +  o  #  #  #
+4
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  +  #  #  #  #
+o  +  o  +  #  #  #
++  o  +  o  #  #  #
+4
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  +  o  #  #  #
+o  +  o  +  #  #  #
++  o  +  o  #  #  #
+4
+***********************************************
+You win!
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  #  #  #
+#  #  +  o  #  #  #
+o  +  o  +  #  #  #
++  o  +  o  #  #  #
+
+***********************************************
+Welcome to Connect Four!
+Enter 'P' to play.
+Enter 'Q' to quit.
+q
+***********************************************
+Goodbye!
+Press any key to continue . . .
+
+***********************************************
+
+/////////////////////RUN 2/////////////////////
+Welcome to Connect Four!
+Enter 'P' to play.
+Enter 'Q' to quit.
+p
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+4
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  #  #  #
+5
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  o  #  #
+4
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  #  #  #
+#  #  #  +  o  #  #
+5
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  o  #  #
+#  #  #  +  o  #  #
+4
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  #  #  #
+#  #  #  +  o  #  #
+#  #  #  +  o  #  #
+5
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  o  #  #
+#  #  #  +  o  #  #
+#  #  #  +  o  #  #
+4
+***********************************************
+You win!
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  #  #  #
+#  #  #  +  o  #  #
+#  #  #  +  o  #  #
+#  #  #  +  o  #  #
+
+***********************************************
+Welcome to Connect Four!
+Enter 'P' to play.
+Enter 'Q' to quit.
+P
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+3
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  +  #  #  #  #
+4
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  +  o  #  #  #
+5
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  +  o  +  #  #
+6
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  +  o  +  o  #
+4
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  #  #  #
+#  #  +  o  +  o  #
+5
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  o  #  #
+#  #  +  o  +  o  #
+6
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  +  o  +  #
+#  #  +  o  +  o  #
+6
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  o  #
+#  #  #  +  o  +  #
+#  #  +  o  +  o  #
+5
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  +  o  #
+#  #  #  +  o  +  #
+#  #  +  o  +  o  #
+2
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  +  o  #
+#  #  #  +  o  +  #
+#  o  +  o  +  o  #
+6
+***********************************************
+You win!
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  +  #
+#  #  #  #  +  o  #
+#  #  #  +  o  +  #
+#  o  +  o  +  o  #
+
+***********************************************
+Welcome to Connect Four!
+Enter 'P' to play.
+Enter 'Q' to quit.
+P
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+3
+***********************************************
+Enter the row number (1-7) where you would like to place your peice.
+Enter 'Q' to quit game.
+
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  #  #  #  #  #
+#  #  +  #  #  #  #
+Q
+***********************************************
+Welcome to Connect Four!
+Enter 'P' to play.
+Enter 'Q' to quit.
+Q
+***********************************************
+Goodbye!
+Press any key to continue . . .
+
+***********************************************
